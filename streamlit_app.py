@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.title("🎈BERSAMA MAMBO MENGHITUNG LUAS SEGITIGA")
-a=float(input("masukan alas="))
-t=float(input("masukan tinggi="))
-L = 0.5*a*t
-print ("luas segitiga=",1)
+st.a=float(input("masukan alas="))
+st.t=float(input("masukan tinggi="))
+st.L = 0.5*a*t
+st.print ("luas segitiga=",1)
