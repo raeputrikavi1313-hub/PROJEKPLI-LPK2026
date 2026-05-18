@@ -4,4 +4,4 @@ st.title("🎈BERSAMA MAMBO MENGHITUNG LUAS SEGITIGA")
 a=float(input("masukan al='))
 t=float(input("masukan tinggi="))
 1=0.5*a*t
-  print ("luas segitiga=",1)
+print ("luas segitiga=",1)
